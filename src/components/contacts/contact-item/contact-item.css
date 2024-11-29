@@ -1,0 +1,22 @@
+.contact {
+  max-width: 100%;
+  width: 100%;
+}
+
+.contact h6 {
+  font-size: 14px;
+}
+
+.contact p {
+  font-size: 12px;
+}
+
+.contact .badge {
+  font-size: 10px;
+}
+
+@media (min-width: 992px) {
+  .contact {
+    max-width: 400px;
+  }
+}

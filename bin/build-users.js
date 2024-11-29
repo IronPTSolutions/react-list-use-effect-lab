@@ -6,15 +6,16 @@ for (let i = 0; i <= 50; i++) {
   const gender = faker.person.sexType();
   const firstName = faker.person.firstName(gender);
   const lastName = faker.person.lastName();
+  const email = faker.internet.email({ firstName, lastName }).toLowerCase();
 
   users.push({
     id: faker.string.uuid(),
     name: `${firstName} ${lastName}`,
-    email: faker.internet.email({ firstName, lastName}).toLowerCase(),
+    email,
     phoneNumber: faker.phone.number({ style: 'international' }),
     gender,
     birthday: faker.date.birthdate(),
-    avatar: faker.image.avatar(),
+    avatar: `https://i.pravatar.cc/150?u=${email}`,
     job: {
       title: faker.person.jobTitle(),
       area: faker.person.jobArea(),

@@ -1,23 +1,20 @@
 import { useState } from "react"
-import { ContactList } from "../components/contacts"
+import { ContactFilter, ContactList } from "../components/contacts"
 import { PageLayout } from "../components/layouts"
 
 function Home() {
-  const [name, setName] = useState();
+  const [filter, setFilter] = useState({});
 
-  const handleChangeName = (event) => {
-    const { value } = event.target;
-    setName(value)
+  const handleFilterChange = (filter) => {
+    console.log(filter);
+    setFilter(filter)
   }
 
   return (
     <PageLayout>
       <h2 className="fw-light mb-3 fs-4">Contacts List</h2>
-      <div className="input-group mb-3 w-50">
-        <span className="input-group-text">@</span>
-        <input type="text" className="form-control" placeholder="Find by name..." value={name} onChange={handleChangeName} />
-      </div>
-      <ContactList name={name} />
+      <ContactFilter filter={filter} onFilterChange={handleFilterChange} />
+      <ContactList filter={filter} />
     </PageLayout>
   )
 }

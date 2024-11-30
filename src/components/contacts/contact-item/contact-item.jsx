@@ -8,7 +8,7 @@ function ContactItem({ contact, onDelete }) {
       <img className="img-fluid rounded" src={contact.avatar} alt={contact.name} style={{ maxHeight: '100px'}}/>
       <div className="contact-info fw-light position-relative w-100">
         <i className="fa fa-times text-danger position-absolute top-0 end-0" role="button" onClick={() => onDelete(contact)}></i>
-        <h6 className="mb-0"><strong><i className="fa fa-user fa-fw"></i></strong> {contact.name}</h6>
+        <h6 className="mb-0">{contact.gender === 'male' ? '🙋🏻' : '👩' } {contact.name}</h6>
         <p className="mb-0"><strong><i className="fa fa-phone fa-fw"></i></strong> {contact.phoneNumber}</p>
         <p className="mb-0"><strong><i className="fa fa-birthday-cake fa-fw"></i></strong> {dayjs(contact.birthday).format('ll')}</p>
         <p className="mb-1"><strong><i className="fa fa-briefcase fa-fw"></i></strong> {contact.job.title}</p>

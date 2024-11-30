@@ -1,0 +1,8 @@
+.contact-filter [name="name"] {
+  max-width: 250px;
+}
+
+
+.contact-filter [name="gender"]{
+  max-width: 150px;
+}

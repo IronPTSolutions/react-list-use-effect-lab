@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/react-list-use-effect-lab',
+  base: '/react-list-use-effect-lab/',
   plugins: [react()],
 })

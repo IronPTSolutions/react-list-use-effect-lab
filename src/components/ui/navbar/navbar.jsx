@@ -5,7 +5,7 @@ function Navbar() {
   return (
     <nav className="navbar bg-body-tertiary">
       <div className="container">
-        <Link class="navbar-brand" to="/">
+        <Link className="navbar-brand" to="/">
           <img src={logo} className="me-1" alt="React LAB" width="23" height="23" />
           React Use Effect LAB
         </Link>

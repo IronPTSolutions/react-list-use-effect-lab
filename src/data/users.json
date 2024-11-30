@@ -1,1277 +1,1277 @@
 [
   {
-    "id": "ff5e543d-c211-4037-b7ad-d9f535de23f4",
-    "name": "Roser Pantoja Flores",
-    "email": "roser_pantojaflores38@hotmail.com",
-    "phoneNumber": "+34917337344",
+    "id": "e5cb0810-0b36-4797-8bbd-f1d03a4f016e",
+    "name": "Laura Razo Peña",
+    "email": "laura.razopena@gmail.com",
+    "phoneNumber": "+34902215860",
     "gender": "female",
-    "birthday": "1995-08-20T00:39:51.136Z",
-    "avatar": "https://i.pravatar.cc/150?u=roser_pantojaflores38@hotmail.com",
+    "birthday": "1986-12-14T07:06:30.267Z",
+    "avatar": "https://avatars.githubusercontent.com/u/55789843",
     "job": {
-      "title": "Representante de Grupo Central",
-      "area": "Factores"
-    },
-    "zodiacSign": "Taurus",
-    "bio": "pliers devotee, activist 👂",
-    "topics": [
-      "Memoir",
-      "Poetry",
-      "Psychology"
-    ],
-    "series": [
-      "Harry Potter",
-      "The Maze Runner",
-      "His Dark Materials"
-    ]
-  },
-  {
-    "id": "bbccc274-3962-4dba-9bfa-8256f25a9574",
-    "name": "María de los Ángeles Lara Godoy",
-    "email": "mariadelosangeles_laragodoy@hotmail.com",
-    "phoneNumber": "+34933717008",
-    "gender": "female",
-    "birthday": "1999-01-22T04:25:53.427Z",
-    "avatar": "https://i.pravatar.cc/150?u=mariadelosangeles_laragodoy@hotmail.com",
-    "job": {
-      "title": "Director de Marketing Central",
-      "area": "Funcionalidad"
-    },
-    "zodiacSign": "Capricorn",
-    "bio": "nerve devotee  📺",
-    "topics": [
-      "Thriller",
-      "Philosophy",
-      "Business"
-    ],
-    "series": [
-      "The Border Trilogy",
-      "His Dark Materials",
-      "Little Women"
-    ]
-  },
-  {
-    "id": "9f8cbcf8-3ed6-49e0-8830-cb46908641ef",
-    "name": "Juan Ramón Valenzuela Castellanos",
-    "email": "juanramon.valenzuelacastellanos@gmail.com",
-    "phoneNumber": "+34917741653",
-    "gender": "male",
-    "birthday": "1979-08-21T03:59:42.291Z",
-    "avatar": "https://i.pravatar.cc/150?u=juanramon.valenzuelacastellanos@gmail.com",
-    "job": {
-      "title": "Estratega de Investigación Futuro",
-      "area": "Marketing"
-    },
-    "zodiacSign": "Libra",
-    "bio": "geek, student, geek",
-    "topics": [
-      "Mystery",
-      "Memoir",
-      "Western"
-    ],
-    "series": [
-      "Twilight",
-      "Outlander",
-      "The Arc of a Scythe"
-    ]
-  },
-  {
-    "id": "89835698-29fd-4801-98ee-c276476fadc6",
-    "name": "María de los Ángeles Galván Delafuente",
-    "email": "mariadelosangeles.galvandelafuente@yahoo.com",
-    "phoneNumber": "+34958377164",
-    "gender": "female",
-    "birthday": "1986-06-10T14:38:58.628Z",
-    "avatar": "https://i.pravatar.cc/150?u=mariadelosangeles.galvandelafuente@yahoo.com",
-    "job": {
-      "title": "Funcionario de Marketing Heredado",
-      "area": "Contabilidad"
-    },
-    "zodiacSign": "Pisces",
-    "bio": "sticker lover",
-    "topics": [
-      "Comic",
-      "Fantasy",
-      "Young Adult"
-    ],
-    "series": [
-      "Percy Jackson",
-      "Sherlock Holmes",
-      "The Hunger Games"
-    ]
-  },
-  {
-    "id": "288e3d24-7b7d-4907-81d6-dbd5655d1f85",
-    "name": "Sergi Vallejo Acevedo",
-    "email": "sergi.vallejoacevedo2@yahoo.com",
-    "phoneNumber": "+34935544525",
-    "gender": "male",
-    "birthday": "1951-01-16T01:57:43.714Z",
-    "avatar": "https://i.pravatar.cc/150?u=sergi.vallejoacevedo2@yahoo.com",
-    "job": {
-      "title": "Gerente de Programa Directo",
-      "area": "Grupo"
-    },
-    "zodiacSign": "Capricorn",
-    "bio": "fisherman junkie  🍊",
-    "topics": [
-      "Graphic Novel",
-      "Memoir",
-      "Business"
-    ],
-    "series": [
-      "Thursday Next Series",
-      "Harry Potter",
-      "Jane Austen Murder Mysteries"
-    ]
-  },
-  {
-    "id": "46d94f47-0246-4757-84fa-ee04bb8952b3",
-    "name": "Sergi Acevedo Bahena",
-    "email": "sergi.acevedobahena29@gmail.com",
-    "phoneNumber": "+34925764813",
-    "gender": "male",
-    "birthday": "1995-11-28T03:09:33.925Z",
-    "avatar": "https://i.pravatar.cc/150?u=sergi.acevedobahena29@gmail.com",
-    "job": {
-      "title": "Director de Contabilidad Cliente",
-      "area": "Cuentas"
-    },
-    "zodiacSign": "Cancer",
-    "bio": "singer, person, musician",
-    "topics": [
-      "Graphic Novel",
-      "Mythology",
-      "Comic"
-    ],
-    "series": [
-      "Discworld",
-      "The Southern Reach",
-      "The Chronicles of Narnia"
-    ]
-  },
-  {
-    "id": "cf12deab-8f57-4943-804e-729c0bf3c0ee",
-    "name": "Marta Caballero López",
-    "email": "marta_caballerolopez67@yahoo.com",
-    "phoneNumber": "+34952265775",
-    "gender": "female",
-    "birthday": "1974-10-17T18:36:59.415Z",
-    "avatar": "https://i.pravatar.cc/150?u=marta_caballerolopez67@yahoo.com",
-    "job": {
-      "title": "Relacciones de Calidad Nacional",
-      "area": "Integración"
-    },
-    "zodiacSign": "Scorpio",
-    "bio": "ignorance supporter, environmentalist 🩸",
-    "topics": [
-      "Mythology",
-      "Drama",
-      "Memoir"
-    ],
-    "series": [
-      "Twilight",
-      "The Maze Runner",
-      "The Arc of a Scythe"
-    ]
-  },
-  {
-    "id": "03ba8935-94bc-436e-8439-74c11c165b0e",
-    "name": "Maica Gaytán Trejo",
-    "email": "maica.gaytantrejo53@yahoo.com",
-    "phoneNumber": "+34906900985",
-    "gender": "female",
-    "birthday": "1945-07-21T11:51:45.847Z",
-    "avatar": "https://i.pravatar.cc/150?u=maica.gaytantrejo53@yahoo.com",
-    "job": {
-      "title": "Agente de Optimización Inversor",
-      "area": "Grupo"
-    },
-    "zodiacSign": "Leo",
-    "bio": "scientist, activist",
-    "topics": [
-      "Religion",
-      "Philosophy",
-      "Philosophy"
-    ],
-    "series": [
-      "The Wheel of Time",
-      "The Wheel of Time",
-      "Jane Austen Murder Mysteries"
-    ]
-  },
-  {
-    "id": "086f0bcc-14c8-4cff-90eb-e79d4e89eddc",
-    "name": "Jordi Negrón Flores",
-    "email": "jordi_negronflores@hotmail.com",
-    "phoneNumber": "+34971485951",
-    "gender": "male",
-    "birthday": "1970-06-20T20:27:05.624Z",
-    "avatar": "https://i.pravatar.cc/150?u=jordi_negronflores@hotmail.com",
-    "job": {
-      "title": "Representante de Mobilidad Central",
-      "area": "Datos"
-    },
-    "zodiacSign": "Capricorn",
-    "bio": "sarong enthusiast  🪥",
-    "topics": [
-      "Mythology",
-      "Memoir",
-      "Science Fiction"
-    ],
-    "series": [
-      "The Border Trilogy",
-      "The Southern Reach",
-      "The Chronicles of Narnia"
-    ]
-  },
-  {
-    "id": "47034968-ec8c-43d4-9a43-7273cbd266c5",
-    "name": "Rubén Lucio Casares",
-    "email": "ruben_luciocasares78@gmail.com",
-    "phoneNumber": "+34926197091",
-    "gender": "male",
-    "birthday": "1958-09-19T09:50:27.550Z",
-    "avatar": "https://i.pravatar.cc/150?u=ruben_luciocasares78@gmail.com",
-    "job": {
-      "title": "Asociado de Integración Corporativo",
-      "area": "Normas"
-    },
-    "zodiacSign": "Aquarius",
-    "bio": "reboot devotee",
-    "topics": [
-      "Detective",
-      "Poetry",
-      "Horror"
-    ],
-    "series": [
-      "The Arc of a Scythe",
-      "The Wheel of Time",
-      "Little Women"
-    ]
-  },
-  {
-    "id": "acc391f3-77d3-42e9-9d64-f08fa6875bd3",
-    "name": "Pío Leal Trujillo",
-    "email": "pio_lealtrujillo46@yahoo.com",
-    "phoneNumber": "+34972993936",
-    "gender": "male",
-    "birthday": "1949-09-28T01:45:16.931Z",
-    "avatar": "https://i.pravatar.cc/150?u=pio_lealtrujillo46@yahoo.com",
-    "job": {
-      "title": "Ingeniero de Mobilidad Central",
-      "area": "Tácticas"
-    },
-    "zodiacSign": "Gemini",
-    "bio": "wombat enthusiast, student",
-    "topics": [
-      "Young Adult",
-      "Mystery",
-      "Poetry"
-    ],
-    "series": [
-      "Hercule Poirot",
-      "Colonel Race",
-      "Harry Potter"
-    ]
-  },
-  {
-    "id": "0cb0d467-d1f3-42e2-a673-215aebdade22",
-    "name": "Sergi Manzanares Segovia",
-    "email": "sergi.manzanaressegovia@yahoo.com",
-    "phoneNumber": "+34916758573",
-    "gender": "male",
-    "birthday": "2004-05-24T12:02:28.616Z",
-    "avatar": "https://i.pravatar.cc/150?u=sergi.manzanaressegovia@yahoo.com",
-    "job": {
-      "title": "Consultor de Usabilidad Heredado",
-      "area": "División"
-    },
-    "zodiacSign": "Gemini",
-    "bio": "brush fan  🔷",
-    "topics": [
-      "Thriller",
-      "Memoir",
-      "Adventure"
-    ],
-    "series": [
-      "The Eighth Life",
-      "Little Women",
-      "Dune"
-    ]
-  },
-  {
-    "id": "bb7f397f-f8f7-43f8-bdc4-21677da18171",
-    "name": "Daniel Puente Estévez",
-    "email": "daniel_puenteestevez54@gmail.com",
-    "phoneNumber": "+34934836505",
-    "gender": "male",
-    "birthday": "1998-09-02T06:07:00.641Z",
-    "avatar": "https://i.pravatar.cc/150?u=daniel_puenteestevez54@gmail.com",
-    "job": {
-      "title": "Gerente de Tácticas Director",
-      "area": "Web"
-    },
-    "zodiacSign": "Aries",
-    "bio": "blowgun fan, educator 👢",
-    "topics": [
-      "Horror",
-      "Graphic Novel",
-      "Religion"
-    ],
-    "series": [
-      "His Dark Materials",
-      "Dune",
-      "The Hitchhiker's Guide to the Galaxy"
-    ]
-  },
-  {
-    "id": "eac1f9af-375c-44f1-b4e5-43139bd1fd04",
-    "name": "Jordi Nieves Olivas",
-    "email": "jordi_nievesolivas@gmail.com",
-    "phoneNumber": "+34920192788",
-    "gender": "male",
-    "birthday": "1980-01-14T11:31:00.808Z",
-    "avatar": "https://i.pravatar.cc/150?u=jordi_nievesolivas@gmail.com",
-    "job": {
-      "title": "Funcionario de Normas Global",
-      "area": "Usabilidad"
-    },
-    "zodiacSign": "Leo",
-    "bio": "steeple fan, grad 🧻",
-    "topics": [
-      "Graphic Novel",
-      "Historical Fiction",
-      "Mythology"
-    ],
-    "series": [
-      "Hercule Poirot",
-      "The Southern Reach",
-      "The Foundation Series"
-    ]
-  },
-  {
-    "id": "0ca8e220-0221-4067-9eea-04f7dd949f32",
-    "name": "Daniel Esparza Aguirre",
-    "email": "daniel_esparzaaguirre27@yahoo.com",
-    "phoneNumber": "+34970126949",
-    "gender": "male",
-    "birthday": "1963-01-26T05:44:53.550Z",
-    "avatar": "https://i.pravatar.cc/150?u=daniel_esparzaaguirre27@yahoo.com",
-    "job": {
-      "title": "Ejecutivo de Usabilidad Distrito",
-      "area": "Investigación"
-    },
-    "zodiacSign": "Aquarius",
-    "bio": "flight supporter, environmentalist",
-    "topics": [
-      "Philosophy",
-      "Children's Literature",
-      "Horror"
-    ],
-    "series": [
-      "The Dresden Files",
-      "Outlander",
-      "The Wheel of Time"
-    ]
-  },
-  {
-    "id": "55f5b157-1bde-40c6-82a6-1f33b7e14d96",
-    "name": "Ricardo Lara Zaragoza",
-    "email": "ricardo_larazaragoza29@hotmail.com",
-    "phoneNumber": "+34980288273",
-    "gender": "male",
-    "birthday": "1998-03-29T09:35:03.606Z",
-    "avatar": "https://i.pravatar.cc/150?u=ricardo_larazaragoza29@hotmail.com",
-    "job": {
-      "title": "Facilitador de Seguridada Director",
-      "area": "Aplicaciones"
-    },
-    "zodiacSign": "Capricorn",
-    "bio": "alb devotee  🕖",
-    "topics": [
-      "Romance",
-      "Mystery",
-      "Comedy"
-    ],
-    "series": [
-      "The Southern Reach",
-      "The Border Trilogy",
-      "Sherlock Holmes"
-    ]
-  },
-  {
-    "id": "25e23cf7-29fc-46e8-a68d-28c30c5724a0",
-    "name": "Jordi Bañuelos Nájera",
-    "email": "jordi.banuelosnajera@yahoo.com",
-    "phoneNumber": "+34981514487",
-    "gender": "male",
-    "birthday": "1968-02-26T06:00:44.984Z",
-    "avatar": "https://i.pravatar.cc/150?u=jordi.banuelosnajera@yahoo.com",
-    "job": {
-      "title": "Supervisor de Aplicaciones Regional",
-      "area": "Grupo"
-    },
-    "zodiacSign": "Leo",
-    "bio": "underneath devotee, entrepreneur",
-    "topics": [
-      "Historical Fiction",
-      "Fantasy",
-      "Historical Fiction"
-    ],
-    "series": [
-      "The Chronicles of Narnia",
-      "Sherlock Holmes",
-      "Little Women"
-    ]
-  },
-  {
-    "id": "1e348e27-9dc6-4b84-92ba-4f233e9d0a8c",
-    "name": "María de los Ángeles Saldivar Saiz",
-    "email": "mariadelosangeles_saldivarsaiz@yahoo.com",
-    "phoneNumber": "+34910186939",
-    "gender": "female",
-    "birthday": "1953-04-17T10:15:43.941Z",
-    "avatar": "https://i.pravatar.cc/150?u=mariadelosangeles_saldivarsaiz@yahoo.com",
-    "job": {
-      "title": "Facilitador de Respuesta Central",
-      "area": "Tácticas"
-    },
-    "zodiacSign": "Aquarius",
-    "bio": "valentine advocate, writer",
-    "topics": [
-      "Classic",
-      "Mystery",
-      "Graphic Novel"
-    ],
-    "series": [
-      "The Dark Tower",
-      "Harry Potter",
-      "The Southern Reach"
-    ]
-  },
-  {
-    "id": "605ae0b1-3e49-4520-a2cc-af0349d261fa",
-    "name": "Pablo Pagan Ulloa",
-    "email": "pablo.paganulloa53@gmail.com",
-    "phoneNumber": "+34920761748",
-    "gender": "male",
-    "birthday": "1974-10-11T03:53:26.908Z",
-    "avatar": "https://i.pravatar.cc/150?u=pablo.paganulloa53@gmail.com",
-    "job": {
-      "title": "Asociado de Optimización Adelante",
-      "area": "Web"
-    },
-    "zodiacSign": "Aquarius",
-    "bio": "author, dreamer, author ♍",
-    "topics": [
-      "Historical Fiction",
-      "Classic",
-      "Classic"
-    ],
-    "series": [
-      "The Hitchhiker's Guide to the Galaxy",
-      "Thursday Next Series",
-      "The Bartimaeus Trilogy"
-    ]
-  },
-  {
-    "id": "e76d0b4c-6fa5-4d14-a235-1de8e1377cbf",
-    "name": "Ana Saucedo Jaime",
-    "email": "ana.saucedojaime@gmail.com",
-    "phoneNumber": "+34943761556",
-    "gender": "female",
-    "birthday": "1965-06-30T23:21:50.894Z",
-    "avatar": "https://i.pravatar.cc/150?u=ana.saucedojaime@gmail.com",
-    "job": {
-      "title": "Agente de Infraestructura Regional",
-      "area": "Comunicaciones"
-    },
-    "zodiacSign": "Capricorn",
-    "bio": "veteran, founder, parent",
-    "topics": [
-      "Comic",
-      "Mythology",
-      "Historical Fiction"
-    ],
-    "series": [
-      "The Dresden Files",
-      "Hercule Poirot",
-      "His Dark Materials"
-    ]
-  },
-  {
-    "id": "00d0b458-dfee-47f9-857e-58a85f67cd06",
-    "name": "Jorge de Anda Arteaga",
-    "email": "jorge.deandaarteaga@gmail.com",
-    "phoneNumber": "+34953196872",
-    "gender": "male",
-    "birthday": "1973-05-25T21:35:19.477Z",
-    "avatar": "https://i.pravatar.cc/150?u=jorge.deandaarteaga@gmail.com",
-    "job": {
-      "title": "Planificador de Seguro Director",
-      "area": "Usabilidad"
-    },
-    "zodiacSign": "Capricorn",
-    "bio": "traveler, geek, photographer",
-    "topics": [
-      "Science Fiction",
-      "Drama",
-      "Young Adult"
-    ],
-    "series": [
-      "Sherlock Holmes",
-      "A Song of Ice and Fire",
-      "The Hunger Games"
-    ]
-  },
-  {
-    "id": "07cc841e-b034-4b7c-8a8c-cbf35a6c59f2",
-    "name": "Jordi Sierra Mejía",
-    "email": "jordi.sierramejia@hotmail.com",
-    "phoneNumber": "+34950843112",
-    "gender": "male",
-    "birthday": "1982-10-01T10:50:56.694Z",
-    "avatar": "https://i.pravatar.cc/150?u=jordi.sierramejia@hotmail.com",
-    "job": {
-      "title": "Planificador de Mobilidad Adelante",
-      "area": "Factores"
-    },
-    "zodiacSign": "Aquarius",
-    "bio": "republican junkie, author",
-    "topics": [
-      "Memoir",
-      "Children's Literature",
-      "Detective"
-    ],
-    "series": [
-      "The Red Rising Saga",
-      "The Wheel of Time",
-      "His Dark Materials"
-    ]
-  },
-  {
-    "id": "fd090d89-1d9a-4b13-bff8-1c3499f588a7",
-    "name": "Anni Posada Delao",
-    "email": "anni.posadadelao@gmail.com",
-    "phoneNumber": "+34952410418",
-    "gender": "female",
-    "birthday": "1970-10-27T08:19:45.883Z",
-    "avatar": "https://i.pravatar.cc/150?u=anni.posadadelao@gmail.com",
-    "job": {
-      "title": "Ingeniero de Calidad Director",
-      "area": "Soluciones"
-    },
-    "zodiacSign": "Aries",
-    "bio": "traveler, philosopher",
-    "topics": [
-      "Fantasy",
-      "Historical Fiction",
-      "Romance"
-    ],
-    "series": [
-      "Twilight",
-      "The Maze Runner",
-      "The Maze Runner"
-    ]
-  },
-  {
-    "id": "f7c54a1b-fe34-45a8-858c-fc91d26b49ef",
-    "name": "Rubén Jaimes Hinojosa",
-    "email": "ruben.jaimeshinojosa@gmail.com",
-    "phoneNumber": "+34903044702",
-    "gender": "male",
-    "birthday": "1977-10-10T21:40:25.126Z",
-    "avatar": "https://i.pravatar.cc/150?u=ruben.jaimeshinojosa@gmail.com",
-    "job": {
-      "title": "Arquitecto de Paradigma Global",
-      "area": "Creativo"
-    },
-    "zodiacSign": "Scorpio",
-    "bio": "friend, educator, artist 🥻",
-    "topics": [
-      "Memoir",
-      "Comedy",
-      "Romance"
-    ],
-    "series": [
-      "Percy Jackson",
-      "Hercule Poirot",
-      "Percy Jackson"
-    ]
-  },
-  {
-    "id": "0ec6ca15-ed87-4e9a-9aeb-8d5a18a7dd63",
-    "name": "Iván Saucedo Tejada",
-    "email": "ivan.saucedotejada44@gmail.com",
-    "phoneNumber": "+34963837194",
-    "gender": "male",
-    "birthday": "1984-08-31T01:09:52.482Z",
-    "avatar": "https://i.pravatar.cc/150?u=ivan.saucedotejada44@gmail.com",
-    "job": {
-      "title": "Supervisor de Tácticas Regional",
-      "area": "Contabilidad"
-    },
-    "zodiacSign": "Aquarius",
-    "bio": "coach, person",
-    "topics": [
-      "Religion",
-      "Historical Fiction",
-      "Biography"
-    ],
-    "series": [
-      "A Song of Ice and Fire",
-      "The Inheritance Cycle",
-      "Dune"
-    ]
-  },
-  {
-    "id": "937b1f34-e41b-4b8f-9622-d3512a1c3699",
-    "name": "Roser Ornelas Salgado",
-    "email": "roser.ornelassalgado85@gmail.com",
-    "phoneNumber": "+34978737045",
-    "gender": "female",
-    "birthday": "1965-10-21T23:05:24.414Z",
-    "avatar": "https://i.pravatar.cc/150?u=roser.ornelassalgado85@gmail.com",
-    "job": {
-      "title": "Técnico de Métricas Central",
-      "area": "Paradigma"
-    },
-    "zodiacSign": "Virgo",
-    "bio": "electronics advocate, scientist",
-    "topics": [
-      "Children's Literature",
-      "Religion",
-      "Mythology"
-    ],
-    "series": [
-      "Little Women",
-      "The Dark Tower",
-      "Outlander"
-    ]
-  },
-  {
-    "id": "37f536a6-ff54-46f4-ae52-db04f38b36ef",
-    "name": "Lorena Valentín Rivera",
-    "email": "lorena.valentinrivera@hotmail.com",
-    "phoneNumber": "+34980650845",
-    "gender": "female",
-    "birthday": "1987-05-30T12:10:17.564Z",
-    "avatar": "https://i.pravatar.cc/150?u=lorena.valentinrivera@hotmail.com",
-    "job": {
-      "title": "Gerente de Identidad Distrito",
-      "area": "Métricas"
-    },
-    "zodiacSign": "Sagittarius",
-    "bio": "person, patriot, dreamer 🔻",
-    "topics": [
-      "Psychology",
-      "Science Fiction",
-      "Mythology"
-    ],
-    "series": [
-      "The Infinity Cycle",
-      "The Dark Tower",
-      "Thursday Next Series"
-    ]
-  },
-  {
-    "id": "a20c6d39-d0f3-4430-a0fe-c4de0c868e39",
-    "name": "Josep Tapia Rodríguez",
-    "email": "josep.tapiarodriguez@yahoo.com",
-    "phoneNumber": "+34939742620",
-    "gender": "male",
-    "birthday": "2000-08-24T20:55:50.661Z",
-    "avatar": "https://i.pravatar.cc/150?u=josep.tapiarodriguez@yahoo.com",
-    "job": {
-      "title": "Supervisor de Integración Senior",
+      "title": "Ejecutivo de Creativo Adelante",
       "area": "Identidad"
     },
-    "zodiacSign": "Sagittarius",
-    "bio": "plastic fan, philosopher 👚",
+    "zodiacSign": "Capricorn",
+    "bio": "public speaker, geek, filmmaker 🖖🏽",
     "topics": [
-      "Young Adult",
-      "Mystery",
-      "Science Fiction"
-    ],
-    "series": [
-      "The Eighth Life",
-      "The Foundation Series",
-      "The Bartimaeus Trilogy"
-    ]
-  },
-  {
-    "id": "cde15564-6e4a-4bc4-97e0-91e7e77c7aed",
-    "name": "Rubén Ceballos Serrano",
-    "email": "ruben_ceballosserrano@gmail.com",
-    "phoneNumber": "+34970501654",
-    "gender": "male",
-    "birthday": "1987-06-17T21:27:55.220Z",
-    "avatar": "https://i.pravatar.cc/150?u=ruben_ceballosserrano@gmail.com",
-    "job": {
-      "title": "Productor de Mobilidad Jefe",
-      "area": "Factores"
-    },
-    "zodiacSign": "Libra",
-    "bio": "obedience lover, geek 🍴",
-    "topics": [
-      "Detective",
+      "Science Fiction",
       "Science Fiction",
       "Drama"
     ],
     "series": [
-      "The Prison Healer",
-      "Discworld",
-      "The Infinity Cycle"
+      "The Eighth Life",
+      "Thursday Next Series",
+      "The Maze Runner"
     ]
   },
   {
-    "id": "fc00a396-a495-4eee-b320-ffdc7d1a76e2",
-    "name": "Matilde Arreola Hidalgo",
-    "email": "matilde.arreolahidalgo9@yahoo.com",
-    "phoneNumber": "+34977243291",
-    "gender": "female",
-    "birthday": "1988-06-08T23:53:57.783Z",
-    "avatar": "https://i.pravatar.cc/150?u=matilde.arreolahidalgo9@yahoo.com",
-    "job": {
-      "title": "Relacciones de Seguridada Producto",
-      "area": "Operaciones"
-    },
-    "zodiacSign": "Aries",
-    "bio": "litter lover, model 🐀",
-    "topics": [
-      "Science Fiction",
-      "Psychology",
-      "Science Fiction"
-    ],
-    "series": [
-      "The Red Rising Saga",
-      "The Infinity Cycle",
-      "The Bartimaeus Trilogy"
-    ]
-  },
-  {
-    "id": "97b65fa1-6519-4174-97a5-f535ba447676",
-    "name": "Carles Jaimes León",
-    "email": "carles_jaimesleon38@hotmail.com",
-    "phoneNumber": "+34965649286",
+    "id": "27bbdecd-1084-47b2-a8a4-ff4db6f62a66",
+    "name": "Jordi Arroyo Mesa",
+    "email": "jordi_arroyomesa@hotmail.com",
+    "phoneNumber": "+34987132737",
     "gender": "male",
-    "birthday": "1958-09-22T09:52:56.822Z",
-    "avatar": "https://i.pravatar.cc/150?u=carles_jaimesleon38@hotmail.com",
+    "birthday": "1952-01-02T06:00:56.487Z",
+    "avatar": "https://avatars.githubusercontent.com/u/63578209",
     "job": {
-      "title": "Técnico de Infraestructura Distrito",
-      "area": "Grupo"
-    },
-    "zodiacSign": "Capricorn",
-    "bio": "leader, environmentalist",
-    "topics": [
-      "Young Adult",
-      "Philosophy",
-      "Biography"
-    ],
-    "series": [
-      "The Lord of the Rings",
-      "The Dark Tower",
-      "The Hitchhiker's Guide to the Galaxy"
-    ]
-  },
-  {
-    "id": "d7089237-88f8-4a94-9c66-a36f8a7f778d",
-    "name": "Josep Perales Ibarra",
-    "email": "josep_peralesibarra27@hotmail.com",
-    "phoneNumber": "+34968831635",
-    "gender": "male",
-    "birthday": "1985-09-25T14:17:02.479Z",
-    "avatar": "https://i.pravatar.cc/150?u=josep_peralesibarra27@hotmail.com",
-    "job": {
-      "title": "Agente de Seguro Dinánmico",
-      "area": "Web"
+      "title": "Oficial de Programa Senior",
+      "area": "Identidad"
     },
     "zodiacSign": "Cancer",
-    "bio": "photographer, gamer, foodie",
+    "bio": "foodie",
     "topics": [
-      "Classic",
-      "Religion",
-      "Horror"
+      "Mythology",
+      "Biography",
+      "Comedy"
     ],
     "series": [
-      "Dune",
-      "The Hitchhiker's Guide to the Galaxy",
-      "The Infinity Cycle"
+      "The Bartimaeus Trilogy",
+      "Little Women",
+      "Sherlock Holmes"
     ]
   },
   {
-    "id": "09d7ad1a-b87b-4eca-bdde-7cda22249835",
-    "name": "Lorena Abrego Abrego",
-    "email": "lorena_abregoabrego@yahoo.com",
-    "phoneNumber": "+34945603758",
+    "id": "dbee9774-3f1e-4c23-b5ea-e40ba4836c20",
+    "name": "Matilde Abeyta Casares",
+    "email": "matilde.abeytacasares@gmail.com",
+    "phoneNumber": "+34970788638",
     "gender": "female",
-    "birthday": "1999-07-09T14:21:40.130Z",
-    "avatar": "https://i.pravatar.cc/150?u=lorena_abregoabrego@yahoo.com",
+    "birthday": "1959-12-05T10:18:50.124Z",
+    "avatar": "https://avatars.githubusercontent.com/u/26863100",
     "job": {
-      "title": "Especialista de Optimización Director",
-      "area": "Grupo"
+      "title": "Arquitecto de Seguridada Distrito",
+      "area": "Infraestructura"
     },
-    "zodiacSign": "Virgo",
-    "bio": "foodie, environmentalist, singer 👩🏻‍❤️‍👩🏼",
+    "zodiacSign": "Sagittarius",
+    "bio": "nightlife junkie",
     "topics": [
-      "Fantasy",
-      "Classic",
-      "Children's Literature"
-    ],
-    "series": [
-      "The Foundation Series",
-      "The Southern Reach",
-      "The Dark Tower"
-    ]
-  },
-  {
-    "id": "6cb97cb9-dddd-427f-bf81-98af4c7e5100",
-    "name": "Pedro Abrego Menéndez",
-    "email": "pedro_abregomenendez@gmail.com",
-    "phoneNumber": "+34928191523",
-    "gender": "male",
-    "birthday": "1953-03-31T05:38:02.392Z",
-    "avatar": "https://i.pravatar.cc/150?u=pedro_abregomenendez@gmail.com",
-    "job": {
-      "title": "Productor de Aplicaciones Producto",
-      "area": "Seguro"
-    },
-    "zodiacSign": "Capricorn",
-    "bio": "engineer",
-    "topics": [
-      "Young Adult",
-      "Fantasy",
+      "Memoir",
+      "Horror",
       "Memoir"
     ],
     "series": [
-      "The Prison Healer",
-      "The Lord of the Rings",
+      "A Song of Ice and Fire",
+      "Twilight",
       "His Dark Materials"
     ]
   },
   {
-    "id": "7647ee3a-35be-4233-ac62-5a61627a94e6",
-    "name": "Rubén Páez Montero",
-    "email": "ruben_paezmontero@yahoo.com",
-    "phoneNumber": "+34908265746",
-    "gender": "male",
-    "birthday": "1965-05-17T23:54:54.031Z",
-    "avatar": "https://i.pravatar.cc/150?u=ruben_paezmontero@yahoo.com",
+    "id": "35f4041c-3559-4e3c-b628-5339cff40c5b",
+    "name": "María de los Ángeles González Adorno",
+    "email": "mariadelosangeles.gonzalezadorno74@gmail.com",
+    "phoneNumber": "+34979473313",
+    "gender": "female",
+    "birthday": "1980-11-01T20:55:53.647Z",
+    "avatar": "https://avatars.githubusercontent.com/u/30515426",
     "job": {
-      "title": "Ejecutivo de Tácticas Inversor",
-      "area": "Contabilidad"
-    },
-    "zodiacSign": "Libra",
-    "bio": "release lover",
-    "topics": [
-      "Romance",
-      "Graphic Novel",
-      "Mythology"
-    ],
-    "series": [
-      "The Inheritance Cycle",
-      "The Prison Healer",
-      "The Inheritance Cycle"
-    ]
-  },
-  {
-    "id": "38692ed2-6b8d-4a47-8d5e-2577e2d2ddda",
-    "name": "Pedro Anaya Delacrúz",
-    "email": "pedro.anayadelacruz@hotmail.com",
-    "phoneNumber": "+34926174989",
-    "gender": "male",
-    "birthday": "1984-09-30T00:32:41.780Z",
-    "avatar": "https://i.pravatar.cc/150?u=pedro.anayadelacruz@hotmail.com",
-    "job": {
-      "title": "Gerente de Seguridada Nacional",
-      "area": "Identidad"
+      "title": "Analista de Normas Adelante",
+      "area": "Creativo"
     },
     "zodiacSign": "Capricorn",
-    "bio": "dreamer",
+    "bio": "larva supporter",
     "topics": [
-      "Religion",
-      "Detective",
-      "Fantasy"
+      "Classic",
+      "Classic",
+      "Detective"
     ],
     "series": [
-      "Colonel Race",
-      "Outlander",
-      "The Prison Healer"
+      "A Song of Ice and Fire",
+      "Anna Karenina",
+      "Thursday Next Series"
     ]
   },
   {
-    "id": "eb431ce6-e4ab-45b2-b1f1-93c500755515",
-    "name": "Andrea Cisneros Barela",
-    "email": "andrea_cisnerosbarela@gmail.com",
-    "phoneNumber": "+34947057607",
+    "id": "56cf7d1f-24a6-434e-b5c7-49f962e6b6ab",
+    "name": "Ana Melgar Cisneros",
+    "email": "ana.melgarcisneros@yahoo.com",
+    "phoneNumber": "+34989969090",
     "gender": "female",
-    "birthday": "1995-10-14T16:53:31.548Z",
-    "avatar": "https://i.pravatar.cc/150?u=andrea_cisnerosbarela@gmail.com",
+    "birthday": "2004-04-23T07:28:44.145Z",
+    "avatar": "https://avatars.githubusercontent.com/u/58570552",
     "job": {
-      "title": "Desarrollador de Cuentas Dinánmico",
-      "area": "Seguridada"
+      "title": "Asociado de Intranet Heredado",
+      "area": "Contabilidad"
     },
     "zodiacSign": "Scorpio",
-    "bio": "gamer, veteran, student 😧",
+    "bio": "scientist, scientist, streamer",
     "topics": [
-      "Children's Literature",
-      "Western",
-      "Western"
+      "Historical Fiction",
+      "Business",
+      "Detective"
     ],
     "series": [
-      "The Red Rising Saga",
-      "His Dark Materials",
+      "Dune",
+      "Anna Karenina",
+      "Outlander"
+    ]
+  },
+  {
+    "id": "bfaef7d7-de85-47c4-9c93-325bcf17bd72",
+    "name": "Roser Jaimes Olivárez",
+    "email": "roser_jaimesolivarez95@gmail.com",
+    "phoneNumber": "+34936327007",
+    "gender": "female",
+    "birthday": "1962-06-30T11:31:38.962Z",
+    "avatar": "https://avatars.githubusercontent.com/u/77275909",
+    "job": {
+      "title": "Relacciones de Seguridada Humano",
+      "area": "Infraestructura"
+    },
+    "zodiacSign": "Taurus",
+    "bio": "iridescence devotee, designer 🛎️",
+    "topics": [
+      "Poetry",
+      "Children's Literature",
+      "Drama"
+    ],
+    "series": [
+      "Percy Jackson",
+      "Sherlock Holmes",
+      "Anna Karenina"
+    ]
+  },
+  {
+    "id": "a3ce37b3-b4e1-4067-8a7a-42e2d8f39067",
+    "name": "Pedro Berríos Orozco",
+    "email": "pedro_berriosorozco72@gmail.com",
+    "phoneNumber": "+34936654907",
+    "gender": "male",
+    "birthday": "1974-07-22T10:15:31.694Z",
+    "avatar": "https://avatars.githubusercontent.com/u/59863246",
+    "job": {
+      "title": "Ejecutivo de Soluciones Nacional",
+      "area": "Grupo"
+    },
+    "zodiacSign": "Aries",
+    "bio": "ecliptic devotee  🤌",
+    "topics": [
+      "Memoir",
+      "Mystery",
+      "Poetry"
+    ],
+    "series": [
+      "Sherlock Holmes",
+      "Discworld",
       "War and Peace"
     ]
   },
   {
-    "id": "521b63ce-7181-4dad-8087-3328e63efde8",
-    "name": "Jennifer Ozuna Regalado",
-    "email": "jennifer.ozunaregalado41@gmail.com",
-    "phoneNumber": "+34932895435",
-    "gender": "female",
-    "birthday": "1988-10-28T03:57:32.304Z",
-    "avatar": "https://i.pravatar.cc/150?u=jennifer.ozunaregalado41@gmail.com",
+    "id": "0d0dbaa9-412e-4643-82b6-d443bcfb7323",
+    "name": "Pedro Guerrero Ochoa",
+    "email": "pedro.guerreroochoa@hotmail.com",
+    "phoneNumber": "+34952202008",
+    "gender": "male",
+    "birthday": "1973-12-10T11:27:24.210Z",
+    "avatar": "https://avatars.githubusercontent.com/u/26357661",
     "job": {
-      "title": "Representante de Usabilidad Senior",
-      "area": "Contabilidad"
+      "title": "Facilitador de Intranet Senior",
+      "area": "Paradigma"
     },
     "zodiacSign": "Leo",
-    "bio": "streamer, nerd, developer 🦪",
+    "bio": "blogger, engineer, developer",
     "topics": [
-      "Biography",
-      "Children's Literature",
-      "Philosophy"
+      "Fantasy",
+      "Religion",
+      "Poetry"
     ],
     "series": [
-      "The Foundation Series",
-      "Discworld",
-      "The Dresden Files"
+      "The Hitchhiker's Guide to the Galaxy",
+      "The Arc of a Scythe",
+      "The Border Trilogy"
     ]
   },
   {
-    "id": "fc3c808a-3d97-43fc-ba45-525ec9838179",
-    "name": "Salvador Almanza Alaníz",
-    "email": "salvador.almanzaalaniz24@hotmail.com",
-    "phoneNumber": "+34983328340",
-    "gender": "male",
-    "birthday": "1982-07-20T16:26:44.588Z",
-    "avatar": "https://i.pravatar.cc/150?u=salvador.almanzaalaniz24@hotmail.com",
+    "id": "62cb78d6-31b5-426e-928f-0ab2046d5668",
+    "name": "Andrea Almonte Estévez",
+    "email": "andrea_almonteestevez@gmail.com",
+    "phoneNumber": "+34943236495",
+    "gender": "female",
+    "birthday": "1962-02-25T21:52:48.802Z",
+    "avatar": "https://avatars.githubusercontent.com/u/21118239",
     "job": {
-      "title": "Desarrollador de Funcionalidad Regional",
-      "area": "Interacciones"
+      "title": "Director de Cuentas Interno",
+      "area": "Intranet"
     },
-    "zodiacSign": "Libra",
-    "bio": "designer, student, film lover 🛎️",
+    "zodiacSign": "Aries",
+    "bio": "educator, traveler, designer",
     "topics": [
-      "Science Fiction",
-      "Romance",
-      "Historical Fiction"
+      "Philosophy",
+      "Western",
+      "Mystery"
     ],
     "series": [
-      "Dune",
+      "The Red Rising Saga",
       "The Dark Tower",
       "The Lord of the Rings"
     ]
   },
   {
-    "id": "0df7c656-362e-41eb-bfb6-7eafcbba7e61",
-    "name": "Maica Montañez Mendoza",
-    "email": "maica_montanezmendoza46@gmail.com",
-    "phoneNumber": "+34970128975",
-    "gender": "female",
-    "birthday": "1952-03-24T21:48:43.911Z",
-    "avatar": "https://i.pravatar.cc/150?u=maica_montanezmendoza46@gmail.com",
+    "id": "b6e4f91a-9289-4b58-8138-893122032dcf",
+    "name": "Juan Ramón Quesada de Jesús",
+    "email": "juanramon.quesadadejesus@gmail.com",
+    "phoneNumber": "+34934732458",
+    "gender": "male",
+    "birthday": "1966-10-04T12:15:59.172Z",
+    "avatar": "https://avatars.githubusercontent.com/u/28131436",
     "job": {
-      "title": "Agente de División Cliente",
-      "area": "Creativo"
+      "title": "Funcionario de Soluciones Futuro",
+      "area": "Factores"
     },
-    "zodiacSign": "Pisces",
-    "bio": "electronics supporter, business owner",
+    "zodiacSign": "Leo",
+    "bio": "leader",
     "topics": [
-      "Memoir",
-      "Drama",
+      "Romance",
+      "Biography",
       "Philosophy"
     ],
     "series": [
-      "The Eighth Life",
-      "The Inheritance Cycle",
-      "The Chronicles of Narnia"
-    ]
-  },
-  {
-    "id": "e439a88d-f13c-49d5-beb7-586f55025bba",
-    "name": "Laura Madera Rincón",
-    "email": "laura_maderarincon@gmail.com",
-    "phoneNumber": "+34999973078",
-    "gender": "female",
-    "birthday": "1993-09-13T19:58:10.949Z",
-    "avatar": "https://i.pravatar.cc/150?u=laura_maderarincon@gmail.com",
-    "job": {
-      "title": "Diseñador de Configuración Futuro",
-      "area": "Tácticas"
-    },
-    "zodiacSign": "Aquarius",
-    "bio": "carboxyl devotee, founder",
-    "topics": [
-      "Romance",
-      "Poetry",
-      "Comic"
-    ],
-    "series": [
-      "Thursday Next Series",
-      "The Border Trilogy",
+      "The Hunger Games",
+      "Outlander",
       "The Hunger Games"
     ]
   },
   {
-    "id": "b65a758f-2ffd-48af-9243-752f5dba87b3",
-    "name": "Anni Alcántar Porras",
-    "email": "anni_alcantarporras33@yahoo.com",
-    "phoneNumber": "+34926978529",
-    "gender": "female",
-    "birthday": "1978-01-14T01:28:11.697Z",
-    "avatar": "https://i.pravatar.cc/150?u=anni_alcantarporras33@yahoo.com",
+    "id": "f30528d9-e704-45d6-8a16-d281cde6ba4b",
+    "name": "Rubén Valles Olivera",
+    "email": "ruben_vallesolivera@gmail.com",
+    "phoneNumber": "+34926065914",
+    "gender": "male",
+    "birthday": "1971-05-15T02:14:00.953Z",
+    "avatar": "https://avatars.githubusercontent.com/u/12863614",
     "job": {
-      "title": "Asociado de Infraestructura Corporativo",
+      "title": "Asistente de Intranet Distrito",
+      "area": "Normas"
+    },
+    "zodiacSign": "Gemini",
+    "bio": "baritone advocate, foodie",
+    "topics": [
+      "Fantasy",
+      "Thriller",
+      "Romance"
+    ],
+    "series": [
+      "The Inheritance Cycle",
+      "Jane Austen Murder Mysteries",
+      "The Wheel of Time"
+    ]
+  },
+  {
+    "id": "6bf8abb4-f91e-440b-9393-7c97337ef327",
+    "name": "Manuel Luevano Sanabria",
+    "email": "manuel_luevanosanabria73@yahoo.com",
+    "phoneNumber": "+34972549827",
+    "gender": "male",
+    "birthday": "1953-01-02T22:49:10.918Z",
+    "avatar": "https://avatars.githubusercontent.com/u/8424043",
+    "job": {
+      "title": "Productor de Respuesta Regional",
       "area": "División"
     },
-    "zodiacSign": "Pisces",
-    "bio": "gamer, business owner, teacher",
+    "zodiacSign": "Leo",
+    "bio": "deduction lover",
     "topics": [
-      "Religion",
-      "Mystery",
+      "Children's Literature",
+      "Romance",
+      "Business"
+    ],
+    "series": [
+      "The Southern Reach",
+      "The Inheritance Cycle",
+      "Hercule Poirot"
+    ]
+  },
+  {
+    "id": "e97b2d70-3496-4557-8d59-9949f08514a1",
+    "name": "Laura Curiel Irizarry",
+    "email": "laura.curielirizarry@hotmail.com",
+    "phoneNumber": "+34948034944",
+    "gender": "female",
+    "birthday": "1951-10-31T15:17:33.656Z",
+    "avatar": "https://avatars.githubusercontent.com/u/7424471",
+    "job": {
+      "title": "Arquitecto de Usabilidad Adelante",
+      "area": "Marketing"
+    },
+    "zodiacSign": "Leo",
+    "bio": "massage fan",
+    "topics": [
+      "Business",
+      "Classic",
       "Detective"
     ],
     "series": [
-      "The Border Trilogy",
-      "The Maze Runner",
-      "His Dark Materials"
+      "The Hunger Games",
+      "The Dresden Files",
+      "Hercule Poirot"
     ]
   },
   {
-    "id": "35a50f26-c431-46f6-87fc-3070c1d821f1",
-    "name": "Roser Sepúlveda Candelaria",
-    "email": "roser_sepulvedacandelaria78@hotmail.com",
-    "phoneNumber": "+34905008041",
-    "gender": "female",
-    "birthday": "1964-05-29T15:26:57.263Z",
-    "avatar": "https://i.pravatar.cc/150?u=roser_sepulvedacandelaria78@hotmail.com",
+    "id": "a3cde1fe-ee34-4675-8293-6d138b254f33",
+    "name": "Manuel Rosas Saucedo",
+    "email": "manuel_rosassaucedo@hotmail.com",
+    "phoneNumber": "+34918248475",
+    "gender": "male",
+    "birthday": "1973-03-16T06:55:43.747Z",
+    "avatar": "https://avatars.githubusercontent.com/u/77200508",
     "job": {
-      "title": "Facilitador de Mobilidad Global",
-      "area": "Soluciones"
+      "title": "Especialista de Usabilidad Jefe",
+      "area": "Grupo"
     },
-    "zodiacSign": "Aries",
-    "bio": "turret supporter, person",
+    "zodiacSign": "Libra",
+    "bio": "grad, leader",
     "topics": [
-      "Young Adult",
-      "Religion",
-      "Fantasy"
+      "Adventure",
+      "Historical Fiction",
+      "Detective"
     ],
     "series": [
-      "The Eighth Life",
-      "Thursday Next Series",
-      "The Dark Tower"
+      "The Dark Tower",
+      "War and Peace",
+      "The Hunger Games"
     ]
   },
   {
-    "id": "5dd2bcd3-68cf-42ec-a671-7b742e9b8cc6",
-    "name": "Sergi Quiñones Canales",
-    "email": "sergi_quinonescanales10@gmail.com",
-    "phoneNumber": "+34977893765",
+    "id": "a9d2f69e-1f8d-4cdb-8908-a08b3fc786c1",
+    "name": "Daniel Salgado Velásquez",
+    "email": "daniel.salgadovelasquez@yahoo.com",
+    "phoneNumber": "+34956946058",
     "gender": "male",
-    "birthday": "1968-04-10T11:34:09.304Z",
-    "avatar": "https://i.pravatar.cc/150?u=sergi_quinonescanales10@gmail.com",
+    "birthday": "1969-10-27T18:12:36.990Z",
+    "avatar": "https://avatars.githubusercontent.com/u/97976451",
     "job": {
-      "title": "Director de Cuentas Producto",
-      "area": "Mercados"
+      "title": "Planificador de Tácticas International",
+      "area": "Comunicaciones"
     },
-    "zodiacSign": "Sagittarius",
-    "bio": "leader, film lover, geek 🇰🇳",
+    "zodiacSign": "Pisces",
+    "bio": "necklace advocate, person 🦊",
     "topics": [
+      "Poetry",
       "Mythology",
-      "Psychology",
+      "Philosophy"
+    ],
+    "series": [
+      "The Prison Healer",
+      "Outlander",
+      "The Hitchhiker's Guide to the Galaxy"
+    ]
+  },
+  {
+    "id": "705fdb96-6793-4ab7-acef-3adbd614385f",
+    "name": "Roser Sandoval Castañeda",
+    "email": "roser.sandovalcastaneda34@yahoo.com",
+    "phoneNumber": "+34933147156",
+    "gender": "female",
+    "birthday": "1986-03-11T19:31:34.873Z",
+    "avatar": "https://avatars.githubusercontent.com/u/77940093",
+    "job": {
+      "title": "Estratega de Aplicaciones Humano",
+      "area": "Comunicaciones"
+    },
+    "zodiacSign": "Taurus",
+    "bio": "clamp advocate, veteran",
+    "topics": [
+      "Drama",
+      "Biography",
       "Children's Literature"
     ],
     "series": [
+      "The Hunger Games",
+      "Sherlock Holmes",
+      "Colonel Race"
+    ]
+  },
+  {
+    "id": "e76cc8d2-3a25-4688-a3a2-f38b1431d3f9",
+    "name": "Marta Matos Ulibarri",
+    "email": "marta_matosulibarri@yahoo.com",
+    "phoneNumber": "+34976598994",
+    "gender": "female",
+    "birthday": "1984-08-31T07:39:16.614Z",
+    "avatar": "https://avatars.githubusercontent.com/u/1015149",
+    "job": {
+      "title": "Desarrollador de Interacciones Senior",
+      "area": "Creativo"
+    },
+    "zodiacSign": "Pisces",
+    "bio": "skeleton supporter, philosopher",
+    "topics": [
+      "Psychology",
+      "Science Fiction",
+      "Graphic Novel"
+    ],
+    "series": [
       "The Dark Tower",
-      "The Dark Tower",
+      "The Chronicles of Narnia",
+      "Discworld"
+    ]
+  },
+  {
+    "id": "de3b5482-ff4a-45f6-b992-556f3bcc0c92",
+    "name": "Sergi Montero Santacruz",
+    "email": "sergi.monterosantacruz60@hotmail.com",
+    "phoneNumber": "+34916594301",
+    "gender": "male",
+    "birthday": "2002-06-17T00:09:31.799Z",
+    "avatar": "https://avatars.githubusercontent.com/u/84014923",
+    "job": {
+      "title": "Técnico de Marca Nacional",
+      "area": "Marca"
+    },
+    "zodiacSign": "Gemini",
+    "bio": "skeleton advocate, developer",
+    "topics": [
+      "Mythology",
+      "Memoir",
+      "Philosophy"
+    ],
+    "series": [
+      "A Song of Ice and Fire",
+      "Jane Austen Murder Mysteries",
+      "The Lord of the Rings"
+    ]
+  },
+  {
+    "id": "7b6d812b-c2e9-4159-b629-878f8e16bd22",
+    "name": "Rubén Mondragón Sosa",
+    "email": "ruben.mondragonsosa@hotmail.com",
+    "phoneNumber": "+34946689076",
+    "gender": "male",
+    "birthday": "1945-08-23T07:40:57.962Z",
+    "avatar": "https://avatars.githubusercontent.com/u/10452531",
+    "job": {
+      "title": "Relacciones de Operaciones Producto",
+      "area": "Grupo"
+    },
+    "zodiacSign": "Libra",
+    "bio": "march lover, photographer ✍🏻",
+    "topics": [
+      "Adventure",
+      "Graphic Novel",
+      "Drama"
+    ],
+    "series": [
+      "Sherlock Holmes",
+      "Colonel Race",
+      "Colonel Race"
+    ]
+  },
+  {
+    "id": "eb9cbe86-acb9-47a7-bb9e-96f4e24d693a",
+    "name": "Matilde Cabán Lozano",
+    "email": "matilde.cabanlozano@gmail.com",
+    "phoneNumber": "+34937445631",
+    "gender": "female",
+    "birthday": "1980-04-04T13:55:07.291Z",
+    "avatar": "https://avatars.githubusercontent.com/u/92932232",
+    "job": {
+      "title": "Estratega de Usabilidad Nacional",
+      "area": "Respuesta"
+    },
+    "zodiacSign": "Virgo",
+    "bio": "developer, blogger, founder 🚂",
+    "topics": [
+      "Detective",
+      "Romance",
+      "Thriller"
+    ],
+    "series": [
+      "The Maze Runner",
+      "Outlander",
       "The Foundation Series"
     ]
   },
   {
-    "id": "4677b1b5-4315-462d-b532-aa142530dff7",
-    "name": "Manuel Saavedra Tapia",
-    "email": "manuel_saavedratapia90@yahoo.com",
-    "phoneNumber": "+34984485627",
-    "gender": "male",
-    "birthday": "1997-08-01T10:58:24.908Z",
-    "avatar": "https://i.pravatar.cc/150?u=manuel_saavedratapia90@yahoo.com",
-    "job": {
-      "title": "Representante de Calidad Inversor",
-      "area": "Intranet"
-    },
-    "zodiacSign": "Leo",
-    "bio": "cycle enthusiast  ♓",
-    "topics": [
-      "Religion",
-      "Children's Literature",
-      "Young Adult"
-    ],
-    "series": [
-      "Percy Jackson",
-      "His Dark Materials",
-      "The Infinity Cycle"
-    ]
-  },
-  {
-    "id": "b7355811-22f8-411e-a305-76ddf7e356ca",
-    "name": "Marta Córdova Holguín",
-    "email": "marta_cordovaholguin32@gmail.com",
-    "phoneNumber": "+34949620235",
+    "id": "47e8f5df-c608-49a3-87e6-94e55536a3a3",
+    "name": "Lorena Muñoz Concepción",
+    "email": "lorena.munozconcepcion15@yahoo.com",
+    "phoneNumber": "+34921264338",
     "gender": "female",
-    "birthday": "1982-09-01T03:52:11.772Z",
-    "avatar": "https://i.pravatar.cc/150?u=marta_cordovaholguin32@gmail.com",
+    "birthday": "1950-04-18T23:13:44.533Z",
+    "avatar": "https://avatars.githubusercontent.com/u/46180981",
     "job": {
-      "title": "Consultor de Programa Humano",
-      "area": "Operaciones"
+      "title": "Oficial de Configuración Adelante",
+      "area": "Calidad"
     },
     "zodiacSign": "Capricorn",
-    "bio": "density junkie, scientist 🌅",
+    "bio": "tune-up advocate  🐴",
     "topics": [
-      "Comedy",
-      "Children's Literature",
-      "Young Adult"
-    ],
-    "series": [
-      "The Southern Reach",
-      "The Hunger Games",
-      "Percy Jackson"
-    ]
-  },
-  {
-    "id": "9a0b1a1d-eac1-48ec-a945-df2ea6c70b1e",
-    "name": "Maica Nevárez Candelaria",
-    "email": "maica_nevarezcandelaria37@yahoo.com",
-    "phoneNumber": "+34947434736",
-    "gender": "female",
-    "birthday": "1985-08-05T19:02:53.391Z",
-    "avatar": "https://i.pravatar.cc/150?u=maica_nevarezcandelaria37@yahoo.com",
-    "job": {
-      "title": "Ingeniero de Investigación Producto",
-      "area": "Implementación"
-    },
-    "zodiacSign": "Virgo",
-    "bio": "stall junkie  ⛄",
-    "topics": [
-      "Drama",
-      "Science Fiction",
-      "Detective"
-    ],
-    "series": [
-      "His Dark Materials",
-      "A Song of Ice and Fire",
-      "The Inheritance Cycle"
-    ]
-  },
-  {
-    "id": "25715acc-2572-4eab-9ccb-df6ea6c8777f",
-    "name": "Rubén Ceja Armas",
-    "email": "ruben_cejaarmas@hotmail.com",
-    "phoneNumber": "+34974773496",
-    "gender": "male",
-    "birthday": "2000-11-25T14:47:25.212Z",
-    "avatar": "https://i.pravatar.cc/150?u=ruben_cejaarmas@hotmail.com",
-    "job": {
-      "title": "Asociado de Tácticas Dinánmico",
-      "area": "Marketing"
-    },
-    "zodiacSign": "Sagittarius",
-    "bio": "designer, patriot, leader 🈂️",
-    "topics": [
-      "Young Adult",
       "Poetry",
-      "Thriller"
+      "Science Fiction",
+      "Horror"
     ],
     "series": [
-      "Outlander",
-      "The Southern Reach",
+      "The Border Trilogy",
+      "The Infinity Cycle",
       "Little Women"
     ]
   },
   {
-    "id": "6c09d21b-20c3-4336-9134-03fb2fa4edaa",
-    "name": "Ángel Rivero Abeyta",
-    "email": "angel.riveroabeyta90@yahoo.com",
-    "phoneNumber": "+34932070469",
+    "id": "c1bbf793-7ebe-41d5-928a-915e6ecf49b9",
+    "name": "Iván Ponce Adorno",
+    "email": "ivan.ponceadorno@hotmail.com",
+    "phoneNumber": "+34937159078",
     "gender": "male",
-    "birthday": "1949-06-23T14:29:16.507Z",
-    "avatar": "https://i.pravatar.cc/150?u=angel.riveroabeyta90@yahoo.com",
+    "birthday": "2000-09-08T06:53:58.232Z",
+    "avatar": "https://avatars.githubusercontent.com/u/90792451",
     "job": {
-      "title": "Representante de Respuesta Senior",
-      "area": "Contabilidad"
+      "title": "Ejecutivo de Comunicaciones Global",
+      "area": "Optimización"
+    },
+    "zodiacSign": "Scorpio",
+    "bio": "diagram advocate  🇨🇻",
+    "topics": [
+      "Religion",
+      "Thriller",
+      "Business"
+    ],
+    "series": [
+      "The Inheritance Cycle",
+      "Discworld",
+      "The Maze Runner"
+    ]
+  },
+  {
+    "id": "f8d9be92-3c5c-40e5-9fc0-0e5b967c6a2b",
+    "name": "Sergi Sánchez Cornejo",
+    "email": "sergi.sanchezcornejo77@gmail.com",
+    "phoneNumber": "+34931366643",
+    "gender": "male",
+    "birthday": "1994-09-28T06:15:42.789Z",
+    "avatar": "https://avatars.githubusercontent.com/u/96916732",
+    "job": {
+      "title": "Agente de Integración Producto",
+      "area": "Implementación"
     },
     "zodiacSign": "Virgo",
-    "bio": "singer, public speaker, friend 🪢",
+    "bio": "creator, developer, public speaker 👩🏿‍❤️‍💋‍👩🏽",
     "topics": [
-      "Comic",
+      "Biography",
+      "Philosophy",
+      "Horror"
+    ],
+    "series": [
+      "Little Women",
+      "The Arc of a Scythe",
+      "His Dark Materials"
+    ]
+  },
+  {
+    "id": "70890d1f-18eb-47c7-8f34-c1e2665f39c9",
+    "name": "Anni Haro Granado",
+    "email": "anni.harogranado45@hotmail.com",
+    "phoneNumber": "+34916508504",
+    "gender": "female",
+    "birthday": "1975-04-13T16:54:21.493Z",
+    "avatar": "https://avatars.githubusercontent.com/u/55854270",
+    "job": {
+      "title": "Gerente de Programa Central",
+      "area": "Normas"
+    },
+    "zodiacSign": "Cancer",
+    "bio": "swing devotee, nerd",
+    "topics": [
       "Thriller",
+      "Drama",
+      "Philosophy"
+    ],
+    "series": [
+      "The Prison Healer",
+      "Twilight",
+      "The Wheel of Time"
+    ]
+  },
+  {
+    "id": "3de6b812-7816-4103-b885-5962b1ee5143",
+    "name": "Juan Ramón Alvarado Ramírez",
+    "email": "juanramon_alvaradoramirez@gmail.com",
+    "phoneNumber": "+34943421650",
+    "gender": "male",
+    "birthday": "1982-12-25T16:55:01.600Z",
+    "avatar": "https://avatars.githubusercontent.com/u/12230893",
+    "job": {
+      "title": "Técnico de División Nacional",
+      "area": "Comunicaciones"
+    },
+    "zodiacSign": "Cancer",
+    "bio": "singer, scientist",
+    "topics": [
+      "Fantasy",
+      "Adventure",
+      "Detective"
+    ],
+    "series": [
+      "Percy Jackson",
+      "The Maze Runner",
+      "The Border Trilogy"
+    ]
+  },
+  {
+    "id": "ad5706d9-8edc-49d2-b4b9-1c30e777c058",
+    "name": "Pío Garay Yáñez",
+    "email": "pio.garayyanez61@hotmail.com",
+    "phoneNumber": "+34929450579",
+    "gender": "male",
+    "birthday": "1967-04-11T15:49:44.898Z",
+    "avatar": "https://avatars.githubusercontent.com/u/32355378",
+    "job": {
+      "title": "Facilitador de Soluciones Adelante",
+      "area": "Tácticas"
+    },
+    "zodiacSign": "Gemini",
+    "bio": "activist, dreamer, coach",
+    "topics": [
+      "Classic",
+      "Romance",
+      "Fantasy"
+    ],
+    "series": [
+      "The Infinity Cycle",
+      "The Chronicles of Narnia",
+      "Little Women"
+    ]
+  },
+  {
+    "id": "c1c333e7-f048-4ca2-bb95-bc11f00791d2",
+    "name": "Rubén Guzmán Varela",
+    "email": "ruben.guzmanvarela@gmail.com",
+    "phoneNumber": "+34913798321",
+    "gender": "male",
+    "birthday": "1960-02-11T16:33:11.583Z",
+    "avatar": "https://avatars.githubusercontent.com/u/91576428",
+    "job": {
+      "title": "Facilitador de Creativo Producto",
+      "area": "Programa"
+    },
+    "zodiacSign": "Capricorn",
+    "bio": "educator, founder, blogger 🕌",
+    "topics": [
+      "Mythology",
+      "Biography",
       "Mythology"
     ],
     "series": [
-      "His Dark Materials",
+      "Discworld",
+      "The Prison Healer",
+      "Little Women"
+    ]
+  },
+  {
+    "id": "efbd94ea-96bb-4a2c-b0b5-bf93d339ba28",
+    "name": "Iván Arredondo Torres",
+    "email": "ivan.arredondotorres27@hotmail.com",
+    "phoneNumber": "+34904654657",
+    "gender": "male",
+    "birthday": "1951-01-06T07:14:05.942Z",
+    "avatar": "https://avatars.githubusercontent.com/u/38142974",
+    "job": {
+      "title": "Ingeniero de Métricas Producto",
+      "area": "Aplicaciones"
+    },
+    "zodiacSign": "Aries",
+    "bio": "developer, nerd, public speaker",
+    "topics": [
+      "Religion",
+      "Memoir",
+      "Science Fiction"
+    ],
+    "series": [
+      "The Hitchhiker's Guide to the Galaxy",
+      "The Bartimaeus Trilogy",
+      "Jane Austen Murder Mysteries"
+    ]
+  },
+  {
+    "id": "f2411273-1605-4cb4-86f8-154a16357d0a",
+    "name": "Pío Ceballos Bermúdez",
+    "email": "pio_ceballosbermudez@gmail.com",
+    "phoneNumber": "+34957336493",
+    "gender": "male",
+    "birthday": "1982-02-21T23:41:19.320Z",
+    "avatar": "https://avatars.githubusercontent.com/u/41241710",
+    "job": {
+      "title": "Funcionario de Programa Directo",
+      "area": "Configuración"
+    },
+    "zodiacSign": "Virgo",
+    "bio": "disposer lover, engineer",
+    "topics": [
+      "Psychology",
+      "Business",
+      "Comedy"
+    ],
+    "series": [
+      "The Southern Reach",
+      "Sherlock Holmes",
+      "The Chronicles of Narnia"
+    ]
+  },
+  {
+    "id": "561b0639-e5d2-471e-9032-1047473cbeb1",
+    "name": "Ana Jiménez Anguiano",
+    "email": "ana_jimenezanguiano@yahoo.com",
+    "phoneNumber": "+34930442616",
+    "gender": "female",
+    "birthday": "1963-04-13T07:22:08.744Z",
+    "avatar": "https://avatars.githubusercontent.com/u/66403202",
+    "job": {
+      "title": "Asistente de Seguro Senior",
+      "area": "Contabilidad"
+    },
+    "zodiacSign": "Aquarius",
+    "bio": "schedule lover, engineer",
+    "topics": [
+      "Adventure",
+      "Historical Fiction",
+      "Business"
+    ],
+    "series": [
+      "The Dark Tower",
+      "Twilight",
+      "The Maze Runner"
+    ]
+  },
+  {
+    "id": "fac8b5c4-2154-41c6-bd9d-6385d3fce611",
+    "name": "Josep Véliz Menchaca",
+    "email": "josep.velizmenchaca28@gmail.com",
+    "phoneNumber": "+34949087391",
+    "gender": "male",
+    "birthday": "1944-09-11T03:17:27.624Z",
+    "avatar": "https://avatars.githubusercontent.com/u/86113135",
+    "job": {
+      "title": "Planificador de Mercados Gerente",
+      "area": "Respuesta"
+    },
+    "zodiacSign": "Aries",
+    "bio": "pliers lover",
+    "topics": [
+      "Comic",
+      "Romance",
+      "Children's Literature"
+    ],
+    "series": [
+      "Twilight",
+      "Outlander",
+      "Little Women"
+    ]
+  },
+  {
+    "id": "74c8a851-ede3-442a-b129-71ec30adac8b",
+    "name": "Daniel Rincón Alva",
+    "email": "daniel.rinconalva@yahoo.com",
+    "phoneNumber": "+34903979446",
+    "gender": "male",
+    "birthday": "1954-05-31T01:23:31.142Z",
+    "avatar": "https://avatars.githubusercontent.com/u/93113081",
+    "job": {
+      "title": "Diseñador de Implementación Dinánmico",
+      "area": "Funcionalidad"
+    },
+    "zodiacSign": "Virgo",
+    "bio": "designer, streamer",
+    "topics": [
+      "Science Fiction",
+      "Classic",
+      "Mystery"
+    ],
+    "series": [
+      "Anna Karenina",
+      "The Wheel of Time",
+      "The Inheritance Cycle"
+    ]
+  },
+  {
+    "id": "171e9913-7938-4e77-a92f-04f91f798f82",
+    "name": "Anni Perales Briones",
+    "email": "anni.peralesbriones29@yahoo.com",
+    "phoneNumber": "+34915340481",
+    "gender": "female",
+    "birthday": "1970-06-19T18:33:23.277Z",
+    "avatar": "https://avatars.githubusercontent.com/u/96209219",
+    "job": {
+      "title": "Diseñador de Comunicaciones Director",
+      "area": "Factores"
+    },
+    "zodiacSign": "Libra",
+    "bio": "activist, nerd",
+    "topics": [
+      "Comedy",
+      "Classic",
+      "Comedy"
+    ],
+    "series": [
+      "The Red Rising Saga",
+      "Little Women",
+      "Little Women"
+    ]
+  },
+  {
+    "id": "0509dc49-3c52-49f5-995a-d0ca70ef2637",
+    "name": "Laura Piña Benavídez",
+    "email": "laura.pinabenavidez1@hotmail.com",
+    "phoneNumber": "+34930322158",
+    "gender": "female",
+    "birthday": "1990-12-19T03:48:06.048Z",
+    "avatar": "https://avatars.githubusercontent.com/u/50196458",
+    "job": {
+      "title": "Funcionario de Investigación Cliente",
+      "area": "División"
+    },
+    "zodiacSign": "Gemini",
+    "bio": "dreamer, environmentalist, activist",
+    "topics": [
+      "Thriller",
+      "Graphic Novel",
+      "Fantasy"
+    ],
+    "series": [
+      "The Wheel of Time",
+      "The Red Rising Saga",
+      "Sherlock Holmes"
+    ]
+  },
+  {
+    "id": "e14f880b-aedc-4940-ba1a-4dafdca6c4af",
+    "name": "Iván Casillas Luevano",
+    "email": "ivan_casillasluevano@gmail.com",
+    "phoneNumber": "+34969898463",
+    "gender": "male",
+    "birthday": "1973-06-25T21:58:59.817Z",
+    "avatar": "https://avatars.githubusercontent.com/u/52104617",
+    "job": {
+      "title": "Ingeniero de Aplicaciones International",
+      "area": "División"
+    },
+    "zodiacSign": "Aries",
+    "bio": "veteran, streamer, gamer ☣️",
+    "topics": [
+      "Comedy",
+      "Thriller",
+      "Western"
+    ],
+    "series": [
+      "The Foundation Series",
+      "Sherlock Holmes",
+      "His Dark Materials"
+    ]
+  },
+  {
+    "id": "58c30939-9413-4b97-9995-913c4e08d5b0",
+    "name": "Matilde Valencia Delarosa",
+    "email": "matilde.valenciadelarosa@gmail.com",
+    "phoneNumber": "+34949081450",
+    "gender": "female",
+    "birthday": "1954-12-20T03:20:46.194Z",
+    "avatar": "https://avatars.githubusercontent.com/u/99698508",
+    "job": {
+      "title": "Agente de Creativo Regional",
+      "area": "Aplicaciones"
+    },
+    "zodiacSign": "Sagittarius",
+    "bio": "friend, dreamer",
+    "topics": [
+      "Children's Literature",
+      "Comedy",
+      "Children's Literature"
+    ],
+    "series": [
+      "The Hunger Games",
+      "War and Peace",
+      "The Hitchhiker's Guide to the Galaxy"
+    ]
+  },
+  {
+    "id": "8bb847fd-520d-4e2b-b73d-e676a7b7499c",
+    "name": "Roser Loera Serrano",
+    "email": "roser_loeraserrano78@gmail.com",
+    "phoneNumber": "+34922436776",
+    "gender": "female",
+    "birthday": "1982-01-23T04:43:44.746Z",
+    "avatar": "https://avatars.githubusercontent.com/u/39428353",
+    "job": {
+      "title": "Coordinador de Métricas Nacional",
+      "area": "Implementación"
+    },
+    "zodiacSign": "Virgo",
+    "bio": "grad, engineer",
+    "topics": [
+      "Fantasy",
+      "Western",
+      "Poetry"
+    ],
+    "series": [
+      "Twilight",
+      "Anna Karenina",
+      "Hercule Poirot"
+    ]
+  },
+  {
+    "id": "00afcbe0-f49c-4b78-b59c-6aa81102ba25",
+    "name": "Sergi Alonso Rosas",
+    "email": "sergi.alonsorosas32@hotmail.com",
+    "phoneNumber": "+34947451224",
+    "gender": "male",
+    "birthday": "1952-07-25T23:45:19.530Z",
+    "avatar": "https://avatars.githubusercontent.com/u/68842951",
+    "job": {
+      "title": "Director de Métricas Directo",
+      "area": "Seguro"
+    },
+    "zodiacSign": "Taurus",
+    "bio": "bathhouse devotee",
+    "topics": [
+      "Romance",
+      "Horror",
+      "Historical Fiction"
+    ],
+    "series": [
+      "The Eighth Life",
+      "Anna Karenina",
+      "Sherlock Holmes"
+    ]
+  },
+  {
+    "id": "6b0cd6d9-f91c-4dcd-b069-22ababeac751",
+    "name": "Miguel Herrera Garay",
+    "email": "miguel.herreragaray46@hotmail.com",
+    "phoneNumber": "+34922103318",
+    "gender": "male",
+    "birthday": "1987-12-01T14:13:55.820Z",
+    "avatar": "https://avatars.githubusercontent.com/u/83308150",
+    "job": {
+      "title": "Arquitecto de Operaciones Gerente",
+      "area": "Aplicaciones"
+    },
+    "zodiacSign": "Virgo",
+    "bio": "rationale junkie, patriot 🔑",
+    "topics": [
+      "Science Fiction",
+      "Historical Fiction",
+      "Poetry"
+    ],
+    "series": [
+      "The Wheel of Time",
+      "The Wheel of Time",
+      "A Song of Ice and Fire"
+    ]
+  },
+  {
+    "id": "6162967f-1440-4403-8dc8-da3c2820947c",
+    "name": "Lorena Bonilla Bustamante",
+    "email": "lorena.bonillabustamante@gmail.com",
+    "phoneNumber": "+34942365150",
+    "gender": "female",
+    "birthday": "1951-04-24T05:08:56.843Z",
+    "avatar": "https://avatars.githubusercontent.com/u/31321384",
+    "job": {
+      "title": "Administrador de Marca Adelante",
+      "area": "Normas"
+    },
+    "zodiacSign": "Libra",
+    "bio": "parent",
+    "topics": [
+      "Philosophy",
+      "Religion",
+      "Young Adult"
+    ],
+    "series": [
+      "The Maze Runner",
+      "The Inheritance Cycle",
+      "The Dresden Files"
+    ]
+  },
+  {
+    "id": "02aa16df-d232-4908-b273-8a40c4cdd83d",
+    "name": "Manuel Delgado Saldivar",
+    "email": "manuel.delgadosaldivar79@hotmail.com",
+    "phoneNumber": "+34949908891",
+    "gender": "male",
+    "birthday": "1967-09-21T02:19:58.481Z",
+    "avatar": "https://avatars.githubusercontent.com/u/88724813",
+    "job": {
+      "title": "Gerente de Tácticas Nacional",
+      "area": "Usabilidad"
+    },
+    "zodiacSign": "Capricorn",
+    "bio": "gamer, patriot",
+    "topics": [
+      "Drama",
+      "Young Adult",
+      "Drama"
+    ],
+    "series": [
       "Dune",
+      "The Border Trilogy",
+      "War and Peace"
+    ]
+  },
+  {
+    "id": "ca43aead-954c-4d32-bf1b-21e012f87e37",
+    "name": "Pablo Orosco Estrada",
+    "email": "pablo_oroscoestrada42@gmail.com",
+    "phoneNumber": "+34946969016",
+    "gender": "male",
+    "birthday": "1987-08-09T02:39:59.425Z",
+    "avatar": "https://avatars.githubusercontent.com/u/45364813",
+    "job": {
+      "title": "Asistente de Datos Central",
+      "area": "Integración"
+    },
+    "zodiacSign": "Cancer",
+    "bio": "bookend supporter  💪🏾",
+    "topics": [
+      "Classic",
+      "Comedy",
+      "Biography"
+    ],
+    "series": [
+      "Anna Karenina",
+      "A Song of Ice and Fire",
       "Percy Jackson"
     ]
   },
   {
-    "id": "8263531a-806e-41f6-b43e-3e3ca55a9453",
-    "name": "Sergi Vanegas Serrato",
-    "email": "sergi.vanegasserrato@yahoo.com",
-    "phoneNumber": "+34926313136",
-    "gender": "male",
-    "birthday": "1988-06-14T23:01:04.567Z",
-    "avatar": "https://i.pravatar.cc/150?u=sergi.vanegasserrato@yahoo.com",
+    "id": "9b8f9940-4dd0-42d3-9b65-0d98932e26dc",
+    "name": "Matilde Mascareñas Barragán",
+    "email": "matilde_mascarenasbarragan@gmail.com",
+    "phoneNumber": "+34941516628",
+    "gender": "female",
+    "birthday": "1990-11-15T20:39:05.458Z",
+    "avatar": "https://avatars.githubusercontent.com/u/11046644",
     "job": {
-      "title": "Diseñador de Datos International",
-      "area": "Contabilidad"
+      "title": "Relacciones de Operaciones Adelante",
+      "area": "Datos"
     },
-    "zodiacSign": "Pisces",
-    "bio": "public speaker, founder",
+    "zodiacSign": "Libra",
+    "bio": "creator, activist, writer 🇧🇹",
     "topics": [
-      "Thriller",
-      "Fantasy",
-      "Graphic Novel"
+      "Classic",
+      "Western",
+      "Poetry"
     ],
     "series": [
-      "The Hunger Games",
-      "Percy Jackson",
-      "Dune"
+      "A Song of Ice and Fire",
+      "The Arc of a Scythe",
+      "The Southern Reach"
     ]
   },
   {
-    "id": "aca8ed97-d701-4fa5-a824-f1329d21cd1d",
-    "name": "Matilde Leiva Urías",
-    "email": "matilde.leivaurias@yahoo.com",
-    "phoneNumber": "+34923477247",
+    "id": "15b7553d-6742-43b2-934f-134c7ce2c63f",
+    "name": "María de los Ángeles Ulloa Delacrúz",
+    "email": "mariadelosangeles_ulloadelacruz56@gmail.com",
+    "phoneNumber": "+34981148850",
     "gender": "female",
-    "birthday": "2004-07-07T01:58:17.228Z",
-    "avatar": "https://i.pravatar.cc/150?u=matilde.leivaurias@yahoo.com",
+    "birthday": "2005-06-30T22:46:34.118Z",
+    "avatar": "https://avatars.githubusercontent.com/u/68195603",
     "job": {
-      "title": "Arquitecto de Implementación Directo",
-      "area": "Configuración"
+      "title": "Supervisor de División Central",
+      "area": "Mobilidad"
     },
-    "zodiacSign": "Scorpio",
-    "bio": "geek, author, model 🇨🇩",
+    "zodiacSign": "Taurus",
+    "bio": "hunger devotee, environmentalist 👀",
     "topics": [
       "Romance",
-      "Horror",
-      "Classic"
+      "Business",
+      "Horror"
     ],
     "series": [
-      "The Eighth Life",
+      "Percy Jackson",
       "The Wheel of Time",
-      "The Hunger Games"
+      "The Bartimaeus Trilogy"
+    ]
+  },
+  {
+    "id": "b87669fd-5020-4474-8870-4182b0a61fa3",
+    "name": "Ricardo Viera Carvajal",
+    "email": "ricardo.vieracarvajal@yahoo.com",
+    "phoneNumber": "+34913205647",
+    "gender": "male",
+    "birthday": "1967-06-29T07:53:41.320Z",
+    "avatar": "https://avatars.githubusercontent.com/u/64921130",
+    "job": {
+      "title": "Coordinador de Funcionalidad Regional",
+      "area": "Usabilidad"
+    },
+    "zodiacSign": "Pisces",
+    "bio": "singer",
+    "topics": [
+      "Historical Fiction",
+      "Romance",
+      "Philosophy"
+    ],
+    "series": [
+      "The Hunger Games",
+      "Thursday Next Series",
+      "His Dark Materials"
+    ]
+  },
+  {
+    "id": "4208a103-5862-4c43-96e2-eca5cbcaaa6b",
+    "name": "Andrea Tello Espinosa",
+    "email": "andrea.telloespinosa65@gmail.com",
+    "phoneNumber": "+34994124543",
+    "gender": "female",
+    "birthday": "1990-04-15T12:05:17.161Z",
+    "avatar": "https://avatars.githubusercontent.com/u/25888433",
+    "job": {
+      "title": "Planificador de Datos Heredado",
+      "area": "Normas"
+    },
+    "zodiacSign": "Leo",
+    "bio": "designer",
+    "topics": [
+      "Philosophy",
+      "Science Fiction",
+      "Historical Fiction"
+    ],
+    "series": [
+      "His Dark Materials",
+      "The Chronicles of Narnia",
+      "War and Peace"
+    ]
+  },
+  {
+    "id": "dcf91c0c-4067-46a0-852f-17ab7810a4a0",
+    "name": "Iván Alaníz Salas",
+    "email": "ivan.alanizsalas@hotmail.com",
+    "phoneNumber": "+34985861591",
+    "gender": "male",
+    "birthday": "1961-03-24T01:43:57.112Z",
+    "avatar": "https://avatars.githubusercontent.com/u/46115075",
+    "job": {
+      "title": "Director de Web Central",
+      "area": "Usabilidad"
+    },
+    "zodiacSign": "Virgo",
+    "bio": "grad, patriot, singer",
+    "topics": [
+      "Comedy",
+      "Classic",
+      "Biography"
+    ],
+    "series": [
+      "The Wheel of Time",
+      "War and Peace",
+      "War and Peace"
+    ]
+  },
+  {
+    "id": "512f08aa-d0a1-4556-a896-8dacae924c2b",
+    "name": "Iván Medina Armijo",
+    "email": "ivan.medinaarmijo37@gmail.com",
+    "phoneNumber": "+34932392783",
+    "gender": "male",
+    "birthday": "2003-04-13T03:26:45.155Z",
+    "avatar": "https://avatars.githubusercontent.com/u/70296938",
+    "job": {
+      "title": "Productor de Web Jefe",
+      "area": "Normas"
+    },
+    "zodiacSign": "Gemini",
+    "bio": "teacher",
+    "topics": [
+      "Young Adult",
+      "Mystery",
+      "Romance"
+    ],
+    "series": [
+      "The Border Trilogy",
+      "The Lord of the Rings",
+      "The Lord of the Rings"
+    ]
+  },
+  {
+    "id": "10b6e77a-6f92-4a37-882b-522435a528a3",
+    "name": "Pío Aguirre Morales",
+    "email": "pio.aguirremorales@yahoo.com",
+    "phoneNumber": "+34902776535",
+    "gender": "male",
+    "birthday": "1951-09-04T16:38:32.188Z",
+    "avatar": "https://avatars.githubusercontent.com/u/62331691",
+    "job": {
+      "title": "Asistente de Identidad Adelante",
+      "area": "Infraestructura"
+    },
+    "zodiacSign": "Gemini",
+    "bio": "nerd, parent",
+    "topics": [
+      "Comedy",
+      "Historical Fiction",
+      "Historical Fiction"
+    ],
+    "series": [
+      "The Hitchhiker's Guide to the Galaxy",
+      "The Bartimaeus Trilogy",
+      "The Hitchhiker's Guide to the Galaxy"
+    ]
+  },
+  {
+    "id": "52d88277-99de-4ce2-8576-84eec81a054e",
+    "name": "Ana Leiva Valdivia",
+    "email": "ana_leivavaldivia19@hotmail.com",
+    "phoneNumber": "+34930323934",
+    "gender": "female",
+    "birthday": "1991-08-14T09:55:01.089Z",
+    "avatar": "https://avatars.githubusercontent.com/u/64431862",
+    "job": {
+      "title": "Arquitecto de Programa International",
+      "area": "Respuesta"
+    },
+    "zodiacSign": "Sagittarius",
+    "bio": "singer, geek, public speaker 🕓",
+    "topics": [
+      "Memoir",
+      "Science Fiction",
+      "Drama"
+    ],
+    "series": [
+      "The Arc of a Scythe",
+      "The Foundation Series",
+      "The Hitchhiker's Guide to the Galaxy"
+    ]
+  },
+  {
+    "id": "06d456b2-89b2-433f-a28d-867879095339",
+    "name": "Roser Delafuente Alva",
+    "email": "roser_delafuentealva@gmail.com",
+    "phoneNumber": "+34924355173",
+    "gender": "female",
+    "birthday": "1947-10-03T03:47:53.446Z",
+    "avatar": "https://avatars.githubusercontent.com/u/56465226",
+    "job": {
+      "title": "Consultor de Optimización Gerente",
+      "area": "Calidad"
+    },
+    "zodiacSign": "Sagittarius",
+    "bio": "dreamer",
+    "topics": [
+      "Western",
+      "Thriller",
+      "Adventure"
+    ],
+    "series": [
+      "The Arc of a Scythe",
+      "The Bartimaeus Trilogy",
+      "Percy Jackson"
     ]
   }
 ]

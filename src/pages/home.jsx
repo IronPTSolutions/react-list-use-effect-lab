@@ -1,9 +1,11 @@
+import ContactList from "../components/contacts/contact-list/contact-list";
 import { PageLayout } from "../components/layouts";
 
 function Home() {
   return (
     <PageLayout>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero autem magnam error voluptas aliquam, neque laudantium deserunt culpa, velit sed eligendi perspiciatis blanditiis inventore, quibusdam deleniti? Tenetur harum asperiores ratione!</p>
+      <h3 className="fw-light">Contacts List</h3>
+      <ContactList />
     </PageLayout>
   )
 }

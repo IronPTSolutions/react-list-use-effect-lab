@@ -2,9 +2,9 @@ import dayjs from '../../../lib/dayjs';
 
 function ContactItem({ contact, onDelete }) {
   return (
-    <div className="card event-item">
-      <img src={contact.avatar} className="card-img-top" alt={contact.name} />
-      <div className="card-body">
+    <div className="contact d-flex contact gap-2 bg-light p-2 rounded">
+      <img src={contact.avatar} className="img-fluid rounded" alt={contact.name} style={{ maxHeight: '100px'}} />
+      <div className="contact-info fw-light position-relative w-100">
 
         <h5 className="card-title mb-1 fw-light text-break"><strong>{contact.name}</strong></h5>
 
@@ -18,7 +18,7 @@ function ContactItem({ contact, onDelete }) {
           ))}
         </div>
 
-        <div className="d-flex gap-1 flex-wrap mb-1">
+        <div className="d-flex gap-1 flex-wrap">
           {contact.series.map((serie) => (
             <span key={serie} className='badge text-bg-light bg-warning'>{serie}</span>
           ))}

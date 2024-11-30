@@ -1,4 +1,4 @@
-import ContactList from "../components/contacts/contact-list/contact-list";
+import { ContactList } from "../components/contacts";
 import { PageLayout } from "../components/layouts";
 
 function Home() {

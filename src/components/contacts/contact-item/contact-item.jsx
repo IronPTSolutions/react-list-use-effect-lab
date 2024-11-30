@@ -1,6 +1,6 @@
 import dayjs from '../../../lib/dayjs';
 
-function ContactItem({ contact }) {
+function ContactItem({ contact, onDelete }) {
   return (
     <div className="card event-item">
       <img src={contact.avatar} className="card-img-top" alt={contact.name} />
@@ -23,6 +23,9 @@ function ContactItem({ contact }) {
             <span key={serie} className='badge text-bg-light bg-warning'>{serie}</span>
           ))}
         </div>
+
+        <button className='btn btn-sm btn-danger btn-close' onClick={() => onDelete(contact)}></button>
+
       </div>
     </div>
   )

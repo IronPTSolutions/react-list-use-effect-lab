@@ -9,10 +9,15 @@ function ContactList({ className = '' }) {
     setContacts(contactsData);
   }, []);
 
+  const handleEventDeletion = (contact) => {
+    const filteredContacts = contacts.filter((c) => c.id !== contact.id);
+    setContacts(filteredContacts);
+  }
+
   return (
     <div className={`d-flex flex-wrap gap-3 ${className}`}>
       {contacts.map((contact) => (
-        <ContactItem key={event.id} contact={contact} />
+        <ContactItem key={contact.id} contact={contact} onDelete={handleEventDeletion} />
       ))} 
     </div>
   );

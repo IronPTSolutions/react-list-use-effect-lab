@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import ContactItem from "./ContactItem";
 import usersData from "../data/users.json";
 
-const ContactList = () => {
+const ContactList = ({ filter }) => {
   const [contacts, setContacts] = useState([]);
 
   useEffect(() => {
@@ -13,10 +13,14 @@ const ContactList = () => {
     setContacts(contacts.filter(contact => contact.id !== id));
   };
 
+  const filteredContacts = contacts.filter(contact =>
+    contact.name.toLowerCase().includes(filter.toLowerCase())
+  );
+
   return (
     <div>
       <h2>Lista de contactos</h2>
-      {contacts.map((contact) => (
+      {filteredContacts.map((contact) => (
         <ContactItem 
           key={contact.id} 
           contact={contact} 

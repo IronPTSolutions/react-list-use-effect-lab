@@ -1,14 +1,17 @@
 import React from 'react';
 
-
-const ContactItem = ({ contact }) => {
-    return (
-      <div style={{ border: "1px solid #ccc", padding: "10px", margin: "10px 0" }}>
-        <h3>{contact.name}</h3>
-        <p>Email: {contact.email}</p>
-        <p>Phone: {contact.phone}</p>
-      </div>
-    );
-  };
-  
-  export default ContactItem;
+const ContactItem = ({ contact, onDelete }) => {
+  return (
+    <div className="card">
+        <div className="card-body">
+            <h2 className="card-title">{contact.name}</h2>
+                <ul>
+                    <li className="list-group-item"><p className="card-text"> Email: {contact.email}</p></li>
+                    <li className="list-group-item"><p className="card-text">Phone: {contact.phoneNumber}</p></li>
+                    <li className="list-group-item"><button type="button" className="btn btn-outline-danger" onClick={() => onDelete(contact.id)}>Eliminar</button></li>
+                </ul>
+        </div>
+    </div>
+  );
+};
+export default ContactItem

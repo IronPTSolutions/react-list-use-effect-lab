@@ -28,95 +28,40 @@ function ContactForm({ onAddContact }) {
   };
 
   return (
-    <div className="col-md-12">
-      <form className="row g-3" onSubmit={handleSubmit}>
-        <div className="col-md-6">
-          <label className="form-label" htmlFor="name">
-            Name:
-          </label>
-          <input
-            type="text"
-            className="form-control"
-            name="name"
-            id="name"
-            value={contact.name}
-            onChange={handleChange}
-            placeholder="Enter name"
-            required
-          />
-        </div>
-
-        <div className="col-md-6">
-          <label className="form-label" htmlFor="email">
-            Email:
-          </label>
-          <input
-            type="email"
-            className="form-control"
-            name="email"
-            id="email"
-            value={contact.email}
-            onChange={handleChange}
-            placeholder="Enter email"
-            required
-          />
-        </div>
-
-        <div className="col-md-6">
-          <label className="form-label" htmlFor="phoneNumber">
-            Phone Number:
-          </label>
-          <input
-            type="tel"
-            className="form-control"
-            name="phoneNumber"
-            id="phoneNumber"
-            value={contact.phoneNumber}
-            onChange={handleChange}
-            placeholder="Enter phone number"
-            required
-          />
-        </div>
-
-        <div className="col-md-6">
-          <label className="form-label" htmlFor="gender">
-            Gender:
-          </label>
-          <select
-            className="form-select"
-            name="gender"
-            id="gender"
-            value={contact.gender}
-            onChange={handleChange}
-            required
-          >
-            <option value="">-- Select Gender --</option>
-            <option value="male">Male</option>
-            <option value="female">Female</option>
-            <option value="other">Other</option>
-          </select>
-        </div>
-
-        <div className="col-md-6">
-          <label className="form-label" htmlFor="formFile">
-            Contact Photo:
-          </label>
-          <input
-            className="form-control"
-            type="file"
-            id="formFile"
-            name="photo"
-            accept=".jpg, .jpeg, .png"
-            onChange={handleChange}
-            required
-          />
-        </div>
-
-        <div className="col-12">
-          <button type="submit" className="btn btn-outline-success">
-            Add Contact
-          </button>
-        </div>
+    <div>
+      <form onSubmit={handleSubmit}>
+        <input
+          type="text"
+          name="name"
+          value={contact.name}
+          onChange={handleChange}
+          placeholder="Nombre"
+          required
+        />
+        <input
+          type="email"
+          name="email"
+          value={contact.email}
+          onChange={handleChange}
+          placeholder="Email"
+          required
+        />
+        <input
+          type="tel"
+          name="phoneNumber"
+          value={contact.phoneNumber}
+          onChange={handleChange}
+          placeholder="Teléfono"
+          required
+        />
+        <input
+          type="file"
+          name="photo"
+          accept="image/*"
+          onChange={handleChange}
+          required
+        />
+        <button type="submit">Agregar contacto</button>
       </form>
     </div>
   );

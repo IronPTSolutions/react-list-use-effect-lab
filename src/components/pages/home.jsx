@@ -1,18 +1,17 @@
 import React, { useState, useEffect, useMemo } from "react";
 import ContactList from "../ContactList";
-import SearchBar from "../searchbar";
+import SearchBar from "../SearchBar";
 import ContactForm from "../ContactForm";
 import contactImage from "../contacts.jpg";
 import usersData from "../../data/users.json";
 
 function Home() {
-  // Estado para los contactos y el filtro
   const [contacts, setContacts] = useState([]);
   const [filter, setFilter] = useState("");
 
   // Carga inicial de contactos desde el JSON
   useEffect(() => {
-    setContacts(usersData); // Carga los contactos iniciales
+    setContacts(usersData);
   }, []);
 
   // Maneja los cambios del filtro
@@ -41,46 +40,38 @@ function Home() {
     setContacts((prevContacts) => [...prevContacts, contactWithId]);
   };
 
-  // Filtra los contactos basados en el filtro actual (memoizado para optimización)
+  // Maneja la eliminación de contactos
+  const handleDeleteContact = (id) => {
+    setContacts((prevContacts) => prevContacts.filter((contact) => contact.id !== id));
+  };
+
+  // Filtra los contactos basados en el filtro actual
   const filteredContacts = useMemo(() => {
     return contacts.filter((contact) =>
       contact.name.toLowerCase().includes(filter.toLowerCase())
     );
   }, [contacts, filter]);
 
-  // Renderizado
   return (
     <div className="container">
-      {/* Título y descripción */}
       <h1>My Contacts</h1>
-      <p>
-        Gestiona tus contactos fácilmente. Añade, busca y elimina contactos
-        desde esta interfaz amigable.
-      </p>
+      <p>Gestiona tus contactos fácilmente. Añade, busca y elimina contactos desde esta interfaz amigable.</p>
 
-      {/* Sección de imagen y formulario */}
       <div className="row">
         <div className="col-md-6 col-sm-12">
-          <img
-            src={contactImage}
-            className="img-fluid"
-            id="irregular-shape"
-            alt="Imagen de contactos"
-          />
+          <img src={contactImage} className="img-fluid" alt="Contactos" />
         </div>
         <div className="col-md-6 col-sm-12">
           <ContactForm onAddContact={handleAddContact} />
         </div>
       </div>
 
-      {/* Sección de búsqueda y lista */}
       <div className="mt-4">
         <SearchBar onFilterChange={handleFilterChange} />
-
         {contacts.length === 0 ? (
           <p>No hay contactos disponibles. Añade nuevos contactos.</p>
         ) : filteredContacts.length > 0 ? (
-          <ContactList contacts={filteredContacts} />
+          <ContactList contacts={filteredContacts} onDeleteContact={handleDeleteContact} />
         ) : (
           <p>No hay contactos que coincidan con la búsqueda.</p>
         )}

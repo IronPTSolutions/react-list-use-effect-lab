@@ -4,11 +4,9 @@ function SearchBar({ onFilterChange }) {
   const [filter, setFilter] = useState("");
 
   const handleInputChange = (e) => {
-    setFilter(e.target.value); // Actualiza el estado local del filtro
-  };
-
-  const handleSearch = () => {
-    onFilterChange(filter); // Comunica el valor al componente padre
+    const value = e.target.value;
+    setFilter(value);
+    onFilterChange(value);
   };
 
   return (
@@ -20,9 +18,6 @@ function SearchBar({ onFilterChange }) {
         onChange={handleInputChange}
         className="form-control me-2"
       />
-      <button className="btn btn-primary" type="button" onClick={handleSearch}>
-        Buscar
-      </button>
     </div>
   );
 }
